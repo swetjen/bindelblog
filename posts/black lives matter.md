@@ -1,4 +1,5 @@
-![girlattable](blm.jpg)
+![girlattable](/pics/blm.jpg)
+
 
 # Hello World
 ## This is cool.
