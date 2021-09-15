@@ -1,5 +1,6 @@
-# bindelblog
+# How to use Markdown
 
-test.
 
-kcofman
+https://www.markdownguide.org/basic-syntax/
+
+
