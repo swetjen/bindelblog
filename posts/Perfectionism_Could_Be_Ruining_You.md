@@ -1,5 +1,8 @@
-![stressedoutperson](/pics/perfectionism.jpg)
-# Perfectionism Could Be Ruining You.
+![tryinghard](/pics/Perfectionism1.jpg)
+# Perfectionism Could Be Ruining You
+##### By Kim Bolourtchi
+##### *Lawyer, Top-rated Communications professor, and host of the [Boldly Stated Podcast](https://podcasts.apple.com/us/podcast/boldly-stated/id1528963653).*  
+<br>
 
 If you strive for perfection, you likely believe it is required for success. After all, everyone knows that perfectionists are highly driven and motivated to reach the ultimate standard. It makes sense that such individuals would be the most desirable to work with, right? 
 **Not so much**, it turns out. Disclosing that you are a perfectionist is one of the **worst possible** job interview answers, and is often a deal breaker. 
