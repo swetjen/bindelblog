@@ -2,7 +2,7 @@
 heroimage:  '/pics/Perfectionism1.jpg'
 heroalt: 'Perfectionism Could Be Ruining You'
 title: 'Perfectionism Could Be Ruining You'
-subtitle: 'Join us at these events in Austin and Denver'
+subtitle: 'Subtitle goes here'
 author: Kim Bolourtchi
 date: September 17th, 2021
 ---
