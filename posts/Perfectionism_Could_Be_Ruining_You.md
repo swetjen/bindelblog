@@ -4,7 +4,7 @@ heroalt: 'Perfectionism Could Be Ruining You'
 title: 'Perfectionism Could Be Ruining You'
 subtitle: 'Subtitle goes here'
 author: Kim Bolourtchi
-authorimage: '/pics/kim.png'
+authorimage: '/pics/kim.jpg'
 date: September 17th, 2021
 ---
 
@@ -12,7 +12,7 @@ date: September 17th, 2021
 ##### *Lawyer, Top-rated Communications professor, and host of the [Boldly Stated Podcast](https://podcasts.apple.com/us/podcast/boldly-stated/id1528963653).* 
 ###### *instragram*: [kimbolourtchi](https://www.instagram.com/kimbolourtchi/)
 ###### *tiktok*: [unmutedgeneration](https://www.tiktok.com/@unmutedgeneration)
-###### [*boldly stated*](http://www.boldlystated.com) 
+###### [*boldly stated website*](http://www.boldlystated.com) 
 <br>
 
 If you strive for perfection, you likely believe it is required for success. After all, everyone knows that perfectionists are highly driven and motivated to reach the ultimate standard. It makes sense that such individuals would be the most desirable to work with, right? 
