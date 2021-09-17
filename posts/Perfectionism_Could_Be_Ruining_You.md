@@ -4,6 +4,7 @@ heroalt: 'Perfectionism Could Be Ruining You'
 title: 'Perfectionism Could Be Ruining You'
 subtitle: 'Subtitle goes here'
 author: Kim Bolourtchi
+authorimage: '/pics/kim.png'
 date: September 17th, 2021
 ---
 
