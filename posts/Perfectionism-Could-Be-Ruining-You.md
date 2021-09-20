@@ -9,8 +9,7 @@ date: September 17th, 2021
 
 ##### By Kim Bolourtchi
 ##### *Lawyer, Top-rated Communications professor, and host of the [Boldly Stated Podcast](https://podcasts.apple.com/us/podcast/boldly-stated/id1528963653).* 
-###### *instragram*: [kimbolourtchi](https://www.instagram.com/kimbolourtchi/)
-###### *tiktok*: [unmutedgeneration](https://www.tiktok.com/@unmutedgeneration)
+
 ###### [*boldly stated website*](http://www.boldlystated.com) 
 <br>
 
@@ -36,9 +35,10 @@ Perfectionists are chasing an impossible standard, which means they will never b
 While striving for excellence helps you reach those lofty goals, relentlessly demanding perfection can limit your potential for success and your ability to be truly happy. So you see, being a perfectionist could be derailing your life and your career in ways you didn’t even realize. If you want to break free from the grips of perfection in 3 hours or less, check THIS out: [Overcome Paralyzing Perfection](https://boldlystated.teachable.com/p/perfectionism).
 
 
-##### *"Learning how to stop chasing impossible expectations has completely shifted my perspective in such a powerful way."*
+###### *"Learning how to stop chasing impossible expectations has completely shifted my perspective in such a powerful way."* 
+<br>
 
-##### *"This simple but powerful reframe has changed my world. Thank you!"*   
+###### *"This simple but powerful reframe has changed my world. Thank you!"*   
 <br>
 
 
