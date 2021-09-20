@@ -1,5 +1,5 @@
 ---
-heroimage:  '/blog/blm.png'
+heroimage:  '/pics/blm.png'
 heroalt: 'Black Lives Matter in Austin Texas'
 title: 'How You Can Continue to Support BLM in Austin'
 subtitle: 'Join us at these events in Austin and Denver'

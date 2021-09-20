@@ -1,5 +1,5 @@
 ---
-heroimage: '/blog/rbg.png'
+heroimage: '/pics/rbg.png'
 heroalt: 'Ruth Bader Ginsburg'
 title: 'RIP Notorious RBG'
 subtitle: 'How Ruth Ginsburg Championed Equality on the Court & A Few of Her Iconic Quotes'

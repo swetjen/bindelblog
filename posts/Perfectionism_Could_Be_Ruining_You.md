@@ -1,5 +1,5 @@
 ---
-heroimage:  '/blog/Perfectionism1.jpg'
+heroimage:  '/pics/Perfectionism1.jpg'
 heroalt: 'Perfectionism Could Be Ruining You'
 title: 'Perfectionism Could Be Ruining You'
 author: Kim Bolourtchi
